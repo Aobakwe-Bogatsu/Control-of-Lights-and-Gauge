@@ -22,7 +22,6 @@ To design a user interface in Processing that:
 
 ## 📁 Project Folder Structure
 
-```plaintext
 Control-of-Lights-and-Gauge/
 │
 ├── Control-of-Lights-and-Gauge.pde    # Main Processing sketch file
