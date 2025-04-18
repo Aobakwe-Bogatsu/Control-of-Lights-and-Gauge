@@ -92,5 +92,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ---
 
 ## 🙋‍♂️ Author
-Aobakwe Bogatsu
+## Aobakwe Bogatsu
 Computer Systems Engineering Student
