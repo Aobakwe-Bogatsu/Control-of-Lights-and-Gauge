@@ -1,0 +1,8 @@
+# Processing backup files
+*.tmp
+*.class
+*.pyc
+*.DS_Store
+
+# OS junk
+Thumbs.db
