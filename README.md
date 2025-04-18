@@ -30,6 +30,11 @@ Control-of-Lights-and-Gauge/
 ├── .gitignore                         # Ignore backup & system-specific files
 └── media/                             # Screenshots (output)
 
+## 📁 Project Files
+
+- 'Control-of-Lights-and-Gauge.pde' - Main Processing sketch file
+-  'README.md' -  Project documentation (this file)
+
 ---
 
 ## 🛠️ Built With
