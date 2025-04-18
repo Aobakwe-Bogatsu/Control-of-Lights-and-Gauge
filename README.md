@@ -32,8 +32,8 @@ Control-of-Lights-and-Gauge/
 
 ## 📁 Project Files
 
-- 'Control-of-Lights-and-Gauge.pde' - Main Processing sketch file
--  'README.md' -  Project documentation (this file)
+- `Control-of-Lights-and-Gauge.pde` - Main Processing sketch file
+-  `README.md` -  Project documentation (this file)
 
 ---
 
